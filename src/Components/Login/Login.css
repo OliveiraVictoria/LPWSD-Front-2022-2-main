@@ -1,0 +1,46 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(75, 16, 16);
+	width: 100%;
+    height: 100%;
+}
+
+.login{
+    width: 70vw;
+    height: 70vh;
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: 7%;
+
+}
+
+.user{
+    border-radius: 5px;
+    border-color: bisque;
+    
+}
+
+.pass{
+    border-radius: 5px;
+    border-color: bisque;
+
+}
+
+.botaoLogin{
+    border-radius: 2px;
+    border-color: beige;
+
+}
+
+.titulo{
+    font-family: 'Georgia';
+    color: white;
+}
+
+p {
+    color: white;
+}
